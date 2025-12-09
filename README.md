@@ -20,6 +20,14 @@ order list
  
  . item 1
  . item 2 
-> I like singing 
+> I like singing
+to run my project follow my following steps
+\\\cmd
+   git unit -- in the folder to chose to work on
+   git close <URL> to close my repo
+///
+This Will Run the code bellow 
+\\\ JavaScript 
+///
 > No money no school
 Rc traditional "hello world code"
