@@ -28,6 +28,4 @@ to run my project follow my following steps
 ///
 This Will Run the code bellow 
 \\\ JavaScript 
-///
-> No money no school
-Rc traditional "hello world code"
+    consoleilog ("Hello word")
